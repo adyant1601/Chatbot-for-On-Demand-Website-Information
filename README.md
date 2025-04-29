@@ -6,3 +6,8 @@ textual content and PDF files, using **Data Scraping tools**. A **Vector Databas
 **Mosaic's MPT a large language model (LLM)** to generate accurate and contextually relevant responses.
 Additionally, **Fine-tuned** the **MPT-7B base model** to make sure the generated text matched the 
 required tone and style, improving its relevance and usability.
+
+![Output 1](https://github.com/user-attachments/assets/530cc1eb-4b6f-435f-ba29-3b0406f27e05)
+
+
+![OutPut 2](https://github.com/user-attachments/assets/265112c7-471f-412c-9148-6612befc59c3)
